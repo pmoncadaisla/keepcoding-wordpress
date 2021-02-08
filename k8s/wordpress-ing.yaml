@@ -10,3 +10,9 @@ spec:
       - backend:
           serviceName: wordpress
           servicePort: 80
+  - host: wordpress.35-195-110-201.nip.io
+    http:
+      paths:
+      - backend:
+          serviceName: wordpress
+          servicePort: 80
