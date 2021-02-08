@@ -2,7 +2,7 @@
 
 ## 1. Installation
 
-### 1.2 Create namespace
+### 1.1 Create namespace
 
 ```
 kubectl create ns wordpress
