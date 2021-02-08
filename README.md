@@ -6,6 +6,7 @@
 
 ```
 kubectl create ns wordpress
+kubectl label namespace wordpress app=wordpress
 ```
 
 ### 1.2 Create secret
